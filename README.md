@@ -43,4 +43,4 @@
 
 Practice Project | Excel Dashboard | Sales Analytics
 
-This project demonstrates practical skills in Excel data analysis, dashboard creation, KPI reporting, data visualization, and business insight generation.
+This project demonstrates practical skills in Excel data analysis, dashboard creation, KPI reporting, data visualization.
